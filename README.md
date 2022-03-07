@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fresh-The-Coder
+- 👋 Hi, I’m Nubaid
 - 👀 I’m interested in websites,webapp,2D and 3D games,severs etc
 - 🌱 I’m currently learning php,react,unity 
 - 📫 How to reach me - gmail - hitg5656@gmail
