@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nubaid
-- 👀 I’m interested in websites,webapp,2D and 3D games,severs etc
-- 🌱 I’m currently working Gdevelop5 
-- 📫 How to reach me - Discord - ~FRESH~ #3178
+- 👀 I’m interested in Full-Stack Development
+- 🌱 I’m currently working with Node.js
+- 📫 How to reach me - Discord - Freshy#3178
 
 <!---
 Fresh-The-Coder/Fresh-The-Coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
